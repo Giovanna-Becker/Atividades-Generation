@@ -1,2 +1,3 @@
 # Atividades-Generation
-- Questões 3, 7 e 8
+- Introdução aos algoritmos
+- Laços de repetição
