@@ -1,5 +1,7 @@
 # Atividades-Generation
-- Introdução aos algoritmos
-- Laços de repetição
-- Matriz e vetor
-- Laços de decisão
+- Portugol
+  - Introdução aos algoritmos
+  - Laços de repetição
+  - Matriz e vetor
+- Java
+  - Laço de decisão
