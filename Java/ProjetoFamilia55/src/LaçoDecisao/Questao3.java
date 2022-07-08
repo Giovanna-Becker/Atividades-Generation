@@ -1,8 +1,8 @@
-package Familia55;
+package LaçoDecisao;
 
 import java.util.Scanner;
 
-public class Questão3 {
+public class Questao3 {
 	public static void main(String[] args) {
 		
 		int idade;
