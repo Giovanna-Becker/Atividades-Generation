@@ -7,4 +7,5 @@
   - Laço de decisão
   - Laço de repetição
   - Matriz e vetor
-  - POO
+  - POO Simples
+  - Herança
