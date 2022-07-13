@@ -1,4 +1,4 @@
-package POO;
+package POOSimples;
 
 public class AparelhoEletronico {
 	
