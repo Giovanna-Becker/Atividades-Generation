@@ -27,10 +27,14 @@ public class CollLoja {
 				
 				case 1:
 					
+					if(listaProdutos.isEmpty()) {
+						System.out.println("O estoque está vazio");
+					} else {
 						System.out.println("Estoque: \n");
 						for(String lista: listaProdutos) {
 							System.out.println(lista);
 						}
+					}
 					
 				break;
 				case 2:
